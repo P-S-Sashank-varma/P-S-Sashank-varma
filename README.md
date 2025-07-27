@@ -1,7 +1,8 @@
 👋 Hi, I’m @P-S-Sashank-varma
-👀 I’m interested in web development, coding challenges, and innovative tech projects.
-🌱 I’m currently learning advanced JavaScript, React.js, and preparing for tech placements.
-💞️ I’m looking to collaborate on web development projects and coding competitions.
-📫 How to reach me: sashankvarma920@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I've solved nearly 500 problems across various coding platforms like LeetCode, GeeksforGeeks, CodeChef, and Coding Ninjas
+🚀 Full-stack developer | 3rd-year Engineering Student
+💻 Proficient in MERN Stack, Python, and FastAPI
+🤖 Passionate about building AI agents and solving real-world challenges through code
+🌱 Currently deepening my knowledge in React.js, advanced JavaScript, and system design
+💡 Love participating in hackathons and coding competitions
+📫 Reach me at: sashankvarma920@gmail.com
+⚡ Fun Fact: Solved 1000+ coding problems on platforms like LeetCode, GFG, CodeChef, and Coding Ninjas
