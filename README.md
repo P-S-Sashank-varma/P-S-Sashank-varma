@@ -1,8 +1,9 @@
-👋 Hi, I’m @P-S-Sashank-varma
-🚀 Full-stack developer | 3rd-year Engineering Student
-💻 Proficient in MERN Stack, Python, and FastAPI
-🤖 Passionate about building AI agents and solving real-world challenges through code
-🌱 Currently deepening my knowledge in React.js, advanced JavaScript, and system design
-💡 Love participating in hackathons and coding competitions
-📫 Reach me at: sashankvarma920@gmail.com
-⚡ Fun Fact: Solved 1000+ coding problems on platforms like LeetCode, GFG, CodeChef, and Coding Ninjas
+👋 Hi, I’m @P-S-Sashank-varma  
+🚀 Final-Year Engineering Student | Full-Stack Developer  
+💻 Skilled in MERN Stack, Python, FastAPI, and REST API Development  
+🤖 Building AI Agents and Scalable Real-World Applications  
+🌐 Working on Production-Ready Full Stack & AI/ML Projects  
+🛠️ Strong in Data Structures & Algorithms | 1000+ Problems Solved (LeetCode, GFG, CodeChef)  
+📈 Active GitHub Contributor | Clean Code | Deployment Experience  
+📫 Reach me at: sashankvarma920@gmail.com  
+⚡ Fun Fact: Hackathon & Tech Fest Winner | Passionate about Tech that Solves Problems
